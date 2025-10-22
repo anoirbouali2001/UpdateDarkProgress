@@ -1,9 +1,9 @@
 {
-  "versionCode": 2147483648,
-  "versionName": "19",
+  "versionCode": 2147483647,
+  "versionName": "18",
   "apkSize": 17,
   "enabledDark": true,
-  "forceUp": true,
+  "forceUp": false,
   "whatIsNew": [
     "Performance improved and some bugs fixed.",
     "Android 15 support",

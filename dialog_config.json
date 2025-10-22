@@ -1,12 +1,12 @@
 {
-  "versionCode": 9,
-  "versionName": "5.1",
-  "apkSize": 9,
+  "versionCode": 2147483648,
+  "versionName": "19",
+  "apkSize": 17,
   "enabledDark": true,
   "forceUp": true,
   "whatIsNew": [
     "Performance improved and some bugs fixed.",
-    "Android 14 support",
+    "Android 15 support",
     "Loading speed improved",
     "Notification display issues fixed"
   ],

@@ -1,9 +1,9 @@
 {
-  "versionCode": 1,
-  "versionName": "1",
+  "versionCode": 10,
+  "versionName": "10",
   "apkSize": 1,
   "enabledDark": true,
-  "forceUp": false,
+  "forceUp": true,
   "whatIsNew": [
     "Performance improved and some bugs fixed.",
     "Android 15 support",
